@@ -1,2 +1,2 @@
 # EZ-Minifarm
-For a petting zoo
+To get it started
